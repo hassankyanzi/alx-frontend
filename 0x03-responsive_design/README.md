@@ -51,4 +51,4 @@ Read or watch:
 ---
 
 ## Author
-* **Kyanzi Hassan Musisi** - [Mahiuha](https://github.com/hassankyanzi)
+* **Kyanzi Hassan Musisi** - [Kyanzi Hassan Musisi](https://github.com/hassankyanzi)
