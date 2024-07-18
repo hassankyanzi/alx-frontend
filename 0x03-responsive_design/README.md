@@ -17,10 +17,10 @@ Read or watch:
 * [Responsive web design] (https://web.dev/articles/responsive-web-design-basics)
 * [The building blocks of responsive design - Progressive web apps | MDN] (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 * [Apragmatic guide to designing and building responsive web applications | developerlife.com] (https://developerlife.com/2019/08/25/guide-to-building-responsive-web-apps/)
-* [Understanding the difference between mobile-first, adaptive and responsive design] (https://www.peppersquare.com/blog/how-is-mobile-first-web-design-different-from-adaptive-and-responsive-design/)
-* [LukeW | Mobile First] (https://www.lukew.com/resources/mobile_first.asp)
+* [Understanding the difference between mobile-first, adaptive and responsive design] (https://fredericgonzalo.com/en/understanding-the-difference-between-mobile-first-adaptive-and-responsive-design/)
+* [LukeW | Mobile First] (https://www.lukew.com/ff/entry.asp?933)
 * [Media Queries | A collection of inspirational websites using media queries and responsive web design] (https://www.pinterest.com/shahzadhassan/media-query/)
-* [Responsive Design Newsletter] (https://www.mailerlite.com/help/how-to-build-a-responsive-newsletter)
+* [Responsive Design Newsletter] (https://bytes.dev/?s=rwd)
 
 ---
 
