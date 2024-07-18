@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Kyanzi Hassan Musisi** - [Mahiuha](https://github.com/hassankyanzi)
